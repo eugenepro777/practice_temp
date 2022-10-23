@@ -16,3 +16,9 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
+
+ответ на 13 пункт 
+1. [Bitbucket Cloud](https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud "Bitbucket Cloud")
+2. [gitBook](https://git-scm.com/book/ru/v2 "Лучшая книга по git")
+3. [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU "Изучаем git в виде тестов команд")
+3. [ilife.ru](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link13 "Шпаргалка по синтаксису markdown (маркдаун) со всеми самыми популярными тегами")
